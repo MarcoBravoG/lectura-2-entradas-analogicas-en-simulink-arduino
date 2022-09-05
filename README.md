@@ -1,0 +1,1 @@
+# lectura-2-entradas-analogicas-en-simulink-arduino
